@@ -4,7 +4,7 @@ import yfinance as yf
 import pyfiglet
 ascii_banner = pyfiglet.figlet_format("my BTC")  #  erstellt Banner 
 
-my_btc = 0.000001 # mein bestand wird manuell eingegeben 
+my_btc = 0.0001 # mein bestand wird manuell eingegeben 
 
 
 # Ticker-Symbol für Bitcoin
